@@ -1,7 +1,6 @@
 ## Hi, everyone👋
 
-## Welcome to My GitHub Profile
-I'm **Dian Wahdini** <img src="https://cdn-icons-png.flaticon.com/128/907/907097.png" width="30">, an Informatics Engineering student with a passion for technology, web development, and digital innovation. I enjoy building modern, responsive, and functional web applications. 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsMhGJEdriCziL4Zg8A2pcbY7VxizSa2f5Uw&s" width="30"> I'm **Dian Wahdini**, an Informatics Engineering student with a passion for technology, web development, and digital innovation. I enjoy building modern, responsive, and functional web applications. 
 
 ### 🚀 About Me:
 - 🎓 Informatics Engineering Student at Nurul Jadid University
@@ -31,8 +30,8 @@ I'm **Dian Wahdini** <img src="https://cdn-icons-png.flaticon.com/128/907/907097
 ### 🎨 GitHub Profile Trophy:
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Ichu25&theme=onestar&column=3)
 
-🔹 _Let's connect and create something amazing together!_ 🚀
 <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="400" height="200">
+🔹 _Let's connect and create something amazing together!_ 🚀
 
 ### 📈 Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ichu25&layout=compact&theme=tokyonight)
