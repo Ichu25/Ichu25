@@ -1,8 +1,5 @@
 ## Hi, everyone👋
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_cT0fRt0VnN1ImVZ7G9TefonVdpDeu1sfrg&s" width="150" style="position: absolute; top: 0; left: 0; transform: rotate(-15deg);">  
-
-## Welcome to My GitHub Profile
 I'm **Dian Wahdini** <img src="https://cdn-icons-png.flaticon.com/128/907/907097.png" width="30">, an Informatics Engineering student with a passion for technology, web development, and digital innovation. I enjoy building modern, responsive, and functional web applications. 
 
 ### 🚀 About Me:
