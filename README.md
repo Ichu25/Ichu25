@@ -1,6 +1,6 @@
 ## Hi, everyone👋
 
-I'm **Dian Wahdini** <img src="https://cdn-icons-png.flaticon.com/128/907/907097.png" width="30">, an Informatics Engineering student with a passion for technology, web development, and digital innovation. I enjoy building modern, responsive, and functional web applications. 
+I'm **Dian Wahdini**, an Informatics Engineering student with a passion for technology, web development, and digital innovation. I enjoy building modern, responsive, and functional web applications. 
 
 ### 🚀 About Me:
 - 🎓 Informatics Engineering Student at Nurul Jadid University
