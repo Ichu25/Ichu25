@@ -27,9 +27,8 @@ I'm **Dian Wahdini**, an Informatics Engineering student with a passion for tech
 ### 📊 GitHub Stats:
 ![Ichu25's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ichu25&show_icons=true&theme=tokyonight)
 
-<img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="400" height="200">
-
 ### 📈 Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ichu25&layout=compact&theme=tokyonight)
 
+<img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="400" height="200">
 🔹 _Let's connect and create something amazing together!_ 🚀
