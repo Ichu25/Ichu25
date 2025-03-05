@@ -15,7 +15,7 @@ I'm **<span style="color: #BA55D3;">Dian Wahdini</span>**, an Informatics Engine
 - 🎨 Passionate about: **Creative Web Design and Digital Technology**
 
 ### 📫 <span style="color: #8A2BE2;">Connect with Me:</span>
-- ✉️ Email: [dianwahdini6@gmail.com](mailto:dianwahdini6@gmail.com)
+- ✉️ Email: [dianwahdini6@gmail.com](mailto:dianwahdini25@gmail.com)
 - 💼 LinkedIn: [Dian Wahdini](http://www.linkedin.com/in/dianwahdini25)
 - 🔗 Portfolio: [Coming Soon!]
 - 🌐 Website: [Coming Soon!]
@@ -31,11 +31,4 @@ I'm **<span style="color: #BA55D3;">Dian Wahdini</span>**, an Informatics Engine
 ### 📊 <span style="color: #8A2BE2;">GitHub Stats:</span>
 ![Ichu25's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ichu25&show_icons=true&theme=tokyonight)
 
-### 📈 <span style="color: #8A2BE2;">Most Used Languages:</span>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ichu25&layout=compact&theme=tokyonight)
-
-<div align="center">
-  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="400" height="200">
-  <br>
-  <span style="color: #BA55D3; font-size: 1.2em;">_Let's connect and create something amazing together!🚀_</span>
-</div>
+<img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="400" height="200">
