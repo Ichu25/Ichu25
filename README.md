@@ -15,7 +15,7 @@ I'm **<span style="color: #BA55D3;">Dian Wahdini</span>**, an Informatics Engine
 - 🎨 Passionate about: **Creative Web Design and Digital Technology**
 
 ### 📫 <span style="color: #8A2BE2;">Connect with Me:</span>
-- ✉️ Email: [dianwahdini6@gmail.com](mailto:dianwahdini25@gmail.com)
+- ✉️ Email: [dianwahdini25@gmail.com](mailto:dianwahdini25@gmail.com)
 - 💼 LinkedIn: [Dian Wahdini](http://www.linkedin.com/in/dianwahdini25)
 - 🔗 Portfolio: [Coming Soon!]
 - 🌐 Website: [Coming Soon!]
