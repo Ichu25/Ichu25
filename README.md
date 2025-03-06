@@ -17,7 +17,7 @@ I'm **Dian Wahdini**, an Informatics Engineering student with a passion for tech
 ### 📫Connect with Me:
 - ✉️ Email: [dianwahdini25@gmail.com](mailto:dianwahdini25@gmail.com)
 - 💼 LinkedIn: [Dian Wahdini](http://www.linkedin.com/in/dianwahdini25)
-- 📸 Instagram: [Coming Soon!](https://www.instagram.com/dianwahdini25?igsh=eGhha3lmaXhqbzE=)
+- 📸 Instagram: [dianwahdini25](https://www.instagram.com/dianwahdini25?igsh=eGhha3lmaXhqbzE=)
 - 🔗 Portfolio: [Coming Soon!]
 
 ### ⚡ Technologies & Tools:
